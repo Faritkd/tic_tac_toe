@@ -72,7 +72,7 @@ def computer_move():
                     mv = m
                     break
     return make_move(board, computer, mv)
-        
+
 
 
 

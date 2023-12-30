@@ -60,5 +60,4 @@ def print_board():
     print('-------------')
 
 
-# Start the game
 play_game()
